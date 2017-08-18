@@ -1,0 +1,4 @@
+   TOTAL GROSS               $16,989.15
+   TOTAL NET                 $13,171.57
+   TOTAL PAY RECORDS         11
+   TOTAL REGISTER RECORDS    11
